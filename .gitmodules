@@ -1,0 +1,6 @@
+[submodule "engine"]
+	path = engine
+	url = git@github.com:DevellSoftware/engine.git
+[submodule "webserver"]
+	path = webserver
+	url = git@github.com:DevellSoftware/webserver.git
